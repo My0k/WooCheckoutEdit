@@ -33,7 +33,3 @@ The WooCommerce Checkout Fields Manager allows administrators to streamline the 
 ## 🆓 License
 
 This is a free plugin. Feel free to use it, modify it, and share it!
-
----
-
-Thank you for using WooCommerce Checkout Fields Manager by My0k!
